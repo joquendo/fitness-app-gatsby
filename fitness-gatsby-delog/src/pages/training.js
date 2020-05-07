@@ -15,7 +15,7 @@ const TrainingPage = ({
         <meta name="description" content={"Training page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/fitness/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Training</h1>
           <p>3 Stages</p>
         </div>
