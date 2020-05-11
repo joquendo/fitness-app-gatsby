@@ -296,6 +296,11 @@ a {
       min-height: 240px !important;
     }
   }
+  &.-about {
+    .post-thumbnail {
+      min-height: 240px !important;
+    }
+  }
 }
 /* Portrait and Landscape */
 @media only screen 
