@@ -15,7 +15,7 @@ const NutritionPage = ({
         <meta name="description" content={"Nutrition page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/fitness/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/nutrition.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Nutrition</h1>
           <p>Recipies along with Intermediate and Pro packages avaialble.</p>
         </div>

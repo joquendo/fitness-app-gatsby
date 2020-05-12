@@ -15,7 +15,7 @@ const AboutPage = ({
           <meta name="description" content={"About page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -about">
-          <div className="post-thumbnail" style={{backgroundImage: `url('/fitness/assets/flower-life-green.jpg')`, marginBottom: 0}}>
+          <div className="post-thumbnail" style={{backgroundImage: `url('/assets/flower-life-green.jpg')`, marginBottom: 0}}>
               <h1 className="post-title">About Us</h1>
               <div>
                 [insert image]

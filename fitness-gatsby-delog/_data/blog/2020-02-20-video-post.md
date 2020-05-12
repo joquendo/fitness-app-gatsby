@@ -3,7 +3,7 @@ template: BlogPost
 path: /video-post
 date: 2020-02-20T15:05:49.332Z
 title: Post with Youtube Video embed
-thumbnail: /fitness/assets/image-1.jpg
+thumbnail: /assets/image-1.jpg
 ---
 I have embedded a youtude video in this page.
 

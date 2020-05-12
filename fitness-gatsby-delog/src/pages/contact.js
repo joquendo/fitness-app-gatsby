@@ -17,7 +17,7 @@ const ContactPage = ({
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Get Started!</h1>
-          <p>Let me help you kick start your transformation &rarr;</p>
+          <p><b>Contact us </b>to help you get started on your transformation &rarr;</p>
         </div>
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
