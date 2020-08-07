@@ -2,13 +2,11 @@
   {
       "id": 0,
       "title": "The Masses Project",
-      "source": "video-vllo",
-      "poster": ""
+      "name": "vllo"
   },
   {
       "id": 1,
       "title": "Quick Beginner Workout + Fasting tips",
-      "source": "video-beginner",
-      "poster": ""
+      "name": "beginner"
   }
 ]
