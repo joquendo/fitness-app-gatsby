@@ -17,7 +17,7 @@ const NutritionPage = ({
       <div className="-contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/nutrition.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Nutrition</h1>
-          <p>Recipies along with Intermediate and Pro packages avaialble.</p>
+          <p>Recipes along with Intermediate and Pro packages available.</p>
         </div>
       </div>
     </Layout>
